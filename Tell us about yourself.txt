@@ -1,0 +1,7 @@
+Tell us about yourself.
+
+1) Name
+2) Major
+3) Year
+4) Hobbies
+
