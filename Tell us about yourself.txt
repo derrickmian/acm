@@ -5,3 +5,7 @@ Tell us about yourself.
 3) Year
 4) Hobbies
 
+1) Derrick Mian
+2) Computer Science
+3) Senior
+4) Video Game
